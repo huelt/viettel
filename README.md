@@ -1,2 +1,2 @@
 # viettel
-hue
+* hue
